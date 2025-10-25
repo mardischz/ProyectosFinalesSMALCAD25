@@ -44,7 +44,7 @@ git checkout -b nombre-del-equipo
 Por ejemplo:
 
 ```bash
-git checkout -b equipo-vision
+git checkout -b rayitomcqueen
 ```
 
 Verán que ahora están trabajando dentro de su propia rama.
